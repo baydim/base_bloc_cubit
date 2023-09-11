@@ -1,6 +1,6 @@
 # base_bloc_cubit
 
-A new Flutter project use flutter_bloc so simple and easy to learn
+A new Flutter project use flutter_bloc CUBIT so simple and easy to learn
 
 ## Getting Started
 
